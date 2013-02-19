@@ -1,5 +1,3 @@
-*.swp
-*.swo
 .rvmrc
 vendor/ruby
 vendor/bundle

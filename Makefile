@@ -8,7 +8,6 @@ GEMRC			= .gemrc
 GITCONFIG		= .gitconfig
 GITIGNORE		= .gitignore
 RDEBUGRC		= .rdebugrc
-VIMRC			= .vimrc
 BUNDLE			= .bundle
 
 backupfiles:
@@ -32,8 +31,6 @@ symlinks:
 	ln -s ${PWD}/${GEMRC} ${HOME}/${GEMRC}
 	ln -s ${PWD}/${GITCONFIG} ${HOME}/${GITCONFIG}
 	ln -s ${PWD}/${GITIGNORE} ${HOME}/${GITIGNORE}
-	ln -s ${PWD}/${RDEBUGRC} ${HOME}/${RDEBUGRC}
-	ln -s ${PWD}/${VIMRC} ${HOME}/${VIMRC}
 	ln -s ${PWD}/${BUNDLE} ${HOME}/${BUNDLE}
 
 install: backupfiles symlinks
