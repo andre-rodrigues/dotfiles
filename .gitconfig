@@ -1,6 +1,6 @@
 [user]
-	name = Daniel Teixeira
-	email = daniel@tagview.com.br
+	name = Fabio Lima
+	email = fabio.lima@tagview.com.br
 [alias]
 	st = status
 	co = checkout
@@ -8,7 +8,7 @@
 	last = cat-file commit HEAD
 	colete = blame
 [core]
-	excludesfile = /home/daniel/.gitignore
+	excludesfile = /home/fabio/.gitignore
 [help]
 	format = web
 	autocorrect = -1
