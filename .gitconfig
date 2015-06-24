@@ -1,6 +1,6 @@
 [user]
-	name = Fabio Lima
-	email = fabio.lima@tagview.com.br
+	name = André Rodrigues
+	email = a.andremr@gmail.com
 [alias]
 	st = status
 	co = checkout
@@ -8,7 +8,7 @@
 	last = cat-file commit HEAD
 	colete = blame
 [core]
-	excludesfile = /home/fabio/.gitignore
+	excludesfile = /home/andre/.gitignore
 [help]
 	format = web
 	autocorrect = -1
